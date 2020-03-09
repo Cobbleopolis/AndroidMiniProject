@@ -2,5 +2,23 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.24",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": true
+		},
+		{
+			"Name": "TimeSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioSynesthesia",
+			"Enabled": true
+		}
+	]
 }
